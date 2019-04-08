@@ -1,0 +1,19 @@
+/* openTransactis.css
+*
+* overrriding css for opening child window in Transactis
+*/
+.print{
+    display: none;
+}
+.printLink{
+    display: none;
+}
+.return-btn{
+    display: none;
+}
+.makeAnotherPayment-btn{
+    display: none;
+}
+.detail-cancel-btn{
+    display: none;
+}
